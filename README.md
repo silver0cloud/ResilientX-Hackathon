@@ -1,7 +1,7 @@
 # ResilientX-Hackathon
-# ResilientX RAG Pipeline - Project Summary
 
-## 📦 Complete Deliverables
+
+## RAG Pipeline
 
 ### ✅ What You Got
 
